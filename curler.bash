@@ -3,4 +3,7 @@
 # and from there gather all the links. By using regex to find all the anchors 
 # in the html, and adding the links inside to the worklist (worklist.txt)
 
-curl $1 
+curl $1 | sed -n 's/.*href="\([^"]*\).*/\1/p' >workinglist;
+
+exit
+
