@@ -5,8 +5,8 @@
 
 curl $1 | sed -n 's/.*href="\([^"]*\).*/\1/p' | while read next
 do
-if echo $next | grep "bth.se"
-then echo $next >workinglist.txt 
+if echo $next | grep "bth.se\|^/.*/"
+then echo $next >>workinglist.txt 
 fi
 done
 
