@@ -6,12 +6,14 @@
 domain = $1
 path = $2
 
-curl $1 | sed -n 's/.*href="\([^"]*\).*/\1/p' | while read next
+curl $1 | sed -n 's/.*href="\([^"]*\).*/\1/p' | sed 's/ //g' | while read next
 do
-if echo $next | grep "bth.se\|^/.*/"
-then echo "$1 $next" >>workinglist.txt 
+if echo $next | grep 'bth.se\|^/.*/'
+then echo "$1$2 $next" | uniq >>workinglist.txt 
 fi
 done
+
+cat workinglist.txt | sed 's#\(bth.se\)#\1\ #g' >>workinglist.txt
 
 
 exit
