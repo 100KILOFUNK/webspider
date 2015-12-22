@@ -1,5 +1,4 @@
 /../../web2012/js/fancybox/jquery.fancybox-1.3.4.css
-/favicon.ico
 /xsp/.ibmxspres/.mini/css/@Da&amp;@Ib&amp;2Tfxsp.css&amp;2TfxspLTR.css.css
 /web/start.nsf/../../web2012/css/all.css
 /web/start.nsf/../../web2012/css/print.css
@@ -51,7 +50,6 @@ http://www.bth.se/web/samverkan.nsf/sidor/marknadsforing
 http://www.bth.se/web/samverkan.nsf/sidor/personalforsorjning
 http://www.bth.se/web/utbildning.nsf/sidor/ny-student
 http://www.bth.se/web/utbildning.nsf/sidor/ny-student
-#
 /web/nyheter.nsf/837BC962A65BDFC1C1257F1E0034D96D/$file/Årets Prestation Trägårdh600x400.jpg
 /web/nyheter.nsf/sidor/837BC962A65BDFC1C1257F1E0034D96D?OpenDocument
 /web/nyheter.nsf/sidor/837BC962A65BDFC1C1257F1E0034D96D?OpenDocument
@@ -76,33 +74,21 @@ http://www.bth.se/web/utbildning.nsf/sidor/ny-student
 /web/nyheter.nsf/B5B269B0CA387646C1257F060052FF09/$file/ATT8KD89.jpg
 /web/nyheter.nsf/sidor/B5B269B0CA387646C1257F060052FF09?OpenDocument
 /web/nyheter.nsf/sidor/B5B269B0CA387646C1257F060052FF09?OpenDocument
-#
 http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=int
-https://www.antagning.se/se/triggerlogin?triggerloginurl=/se/mypages
 http://edu.bth.se/utbildning/utb_sok_resultat.asp?KtTermin=nast&PtStartTermin=nast&KtTyp=FRIS&Program=JA&lang=sv
-https://www.hogskoleprov.nu 
 http://www.bth.se/web/nyheter.nsf/sidor/8F5E44896F091A3AC1257E9F0045AC7D?OpenDocument
 http://edu.bth.se/utbildning/utb_sok_resultat.asp?lang=sv&KtTermin=20152&PtStartTermin=20152&vy=hitta&sortering=amne&sortering=installd&grupperingar=1
 http://www.bth.se/info/ophus.nsf/sidor/oppet-hus-pa-bth
 http://edu.bth.se/utbildning/utb_sok_resultat.asp?KtTermin=inne&PtStartTermin=inne&KtTyp=SOMM&lang=sv
-http://www.youtube.com/embed/drfBOaVG4JM
-#
 /web/kalendarium.nsf/sidor/485C6A116F5CCB07C1257F0E004A3B11?OpenDocument
 http://www.bth.se/web/kalendarium.nsf
 http://www.bth.se/web/kalendarium.nsf
 http://www.bth.se/web/kalendarium.nsf
 http://www.bth.se/web/kalendarium.nsf
 http://www.bth.se/web/kalendarium.nsf/AllaDok?OpenView
-#
 http://www.bth.se/web/RSSreader.nsf/D7FB2047AD932DC1C1257F010044EC29/$file/Ina .jpeg
-tag:blogger.com,1999:blog-1827413828737713081.post-1886500602897311300
-tag:blogger.com,1999:blog-1827413828737713081.post-1886500602897311300
 http://www.bth.se/web/RSSreader.nsf/4EA259E69ABB8D4DC1257EAB003CCEB9/$file/Utbytesstudent i Singapore.jpeg
-http://singingsingapore.wordpress.com/?p=315
-http://singingsingapore.wordpress.com/?p=315
 http://www.bth.se/web/RSSreader.nsf/4EA259E69ABB8D4DC1257EAB003CCEB9/$file/Utbytesstudent i Singapore.jpeg
-https://singingsingapore.wordpress.com/?p=222
-https://singingsingapore.wordpress.com/?p=222
 http://www.bth.se/web2012/images/defaults/blog.jpg
 http://www.bth.se/bloggar/maskinteknik/?p=546
 http://www.bth.se/bloggar/maskinteknik/?p=546
@@ -110,9 +96,6 @@ http://www.bth.se/web2012/images/defaults/blog.jpg
 http://www.bth.se/bloggar/diagnospadistans/?p=1
 http://www.bth.se/bloggar/diagnospadistans/?p=1
 http://www.bth.se/web/RSSreader.nsf/17C888283E5A5BCCC1257A1D002F8132/$file/Green Charge.jpeg
-http://greencharge.se/?p=5691
-http://greencharge.se/?p=5691
-#
 /web/pressmeddelande.nsf/sidor/5992F8120E2655F0C1257F22002CCD89?OpenDocument
 /web/pressmeddelande.nsf/sidor/F4EBEDAD5B398350C1257F1C0028EB53?OpenDocument
 /web/pressmeddelande.nsf/sidor/E702E7C29E33A0B2C1257F1700329433?OpenDocument
@@ -122,4 +105,3 @@ http://www.bth.se/web/pressmeddelande.nsf/AllaDok?OpenView
 /web/utmarkelser.nsf/sidor/C5C8D8F87E6EC6DCC1257D39004CE1D0?OpenDocument
 /web/utmarkelser.nsf/sidor/6121811FF55C891AC1257D8800366D5C?OpenDocument
 /web/utmarkelser.nsf/sidor/936596A2A8C92FBEC1257D6300322897?OpenDocument
-http://www.youtube.com/user/BTHInformation#g/u
