@@ -1,107 +1,107 @@
-/../../web2012/js/fancybox/jquery.fancybox-1.3.4.css
-/xsp/.ibmxspres/.mini/css/@Da&amp;@Ib&amp;2Tfxsp.css&amp;2TfxspLTR.css.css
-/web/start.nsf/../../web2012/css/all.css
-/web/start.nsf/../../web2012/css/print.css
-http://www.bth.se/utbildning/
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=ing
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=hal
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=fys
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=data
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=dig
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=dist
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=int
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=for
-http://edu.bth.se/utbildning/utb_sok_resultat.asp?lang=sv&KtTermin=20162&PtStartTermin=20162&vy=hitta
-http://www.bth.se/web/utbildning.nsf/sidor/utbildningskatalog
-http://www.bth.se/web/utbildning.nsf/sidor/mot-en-bthare
-http://www.bth.se/web/utbildning.nsf/sidor/studentliv
-http://www.bth.se/web/utbildning.nsf/sidor/vagledning
-http://www.bth.se/utbildning/
-http://www.bth.se/web/utbildning.nsf/sidor/mot-en-bthare
-http://hogskolasokbth.bth.se/ingenjorsutbildningar/
-http://www.bth.se/student/
-https://studentportal.bth.se/
-https://studentportal.bth.se/web/studentportal.nsf/web.xsp/registrering
-https://studentportal.bth.se/web/studentportal.nsf/web.xsp/tentamen
-https://studentportal.bth.se/web/studentportal.nsf/web.xsp/ladokintyg
-https://studentportal.bth.se/web/studentportal.nsf/web.xsp/mina_kontaktuppgifter
-https://studentportal.bth.se/web/studentportal.nsf/web.xsp/studentcentrum
-http://schema.bth.se/4DACTION/WebShowSearch/1/1-0
-http://www.bth.se/bibliotek
-http://outlook.com/student.bth.se
-http://www.bth.se/lms
-http://www.bth.se/web/utbildning.nsf/sidor/utbildningskatalog
-https://studentportal.bth.se/web/studentportal.nsf/web.xsp/studentcentrum
-http://www.bth.se/forskning/
-http://www.bth.se/web/forskning.nsf/sidor/utbildning-pa-forskarniva
-http://www.bth.se/web/forskning.nsf/sidor/rankingar
-http://www.bth.se/web/forskning.nsf/sidor/kontakter
-http://www.bth.se/web/forskning.nsf/sidor/forskningsomraden
-http://www.bth.se/samverkan/
-http://www.bth.se/web/samverkan.nsf/sidor/samverkan-med-forskare
-http://www.bth.se/web/samverkan.nsf/sidor/samverkan-med-studenter
-http://www.bth.se/web/samverkan.nsf/sidor/samverkan-med-skolor
-http://www.bth.se/web/samverkan.nsf/sidor/euppdragsutbildning
-http://www.bth.se/web/samverkan.nsf/sidor/vara-erbjudanden
-http://www.bth.se/web/samverkan.nsf/sidor/innovation-och-utveckling
-http://www.bth.se/web/samverkan.nsf/sidor/kompetensutveckling
-http://www.bth.se/web/samverkan.nsf/sidor/kunskapsutveckling
-http://www.bth.se/web/samverkan.nsf/sidor/marknadsforing
-http://www.bth.se/web/samverkan.nsf/sidor/personalforsorjning
-http://www.bth.se/web/utbildning.nsf/sidor/ny-student
-http://www.bth.se/web/utbildning.nsf/sidor/ny-student
-/web/nyheter.nsf/837BC962A65BDFC1C1257F1E0034D96D/$file/Årets Prestation Trägårdh600x400.jpg
-/web/nyheter.nsf/sidor/837BC962A65BDFC1C1257F1E0034D96D?OpenDocument
-/web/nyheter.nsf/sidor/837BC962A65BDFC1C1257F1E0034D96D?OpenDocument
-/web/nyheter.nsf/58ABC906731F6C7CC1257F1D0029707C/$file/ATTRA5O1.jpg
-/web/nyheter.nsf/sidor/58ABC906731F6C7CC1257F1D0029707C?OpenDocument
-/web/nyheter.nsf/sidor/58ABC906731F6C7CC1257F1D0029707C?OpenDocument
-/web/nyheter.nsf/468D27212CC97718C1257F1B004D6CC2/$file/ATT25EIK.jpg
-/web/nyheter.nsf/sidor/468D27212CC97718C1257F1B004D6CC2?OpenDocument
-/web/nyheter.nsf/sidor/468D27212CC97718C1257F1B004D6CC2?OpenDocument
-/web/nyheter.nsf/47312D1069BA0B8FC1257F11004080BC/$file/ATTJUV04.jpg
-/web/nyheter.nsf/sidor/47312D1069BA0B8FC1257F11004080BC?OpenDocument
-/web/nyheter.nsf/sidor/47312D1069BA0B8FC1257F11004080BC?OpenDocument
-/web/nyheter.nsf/27F71FB87DD81958C1257F0F004EF825/$file/ATTI6E0B.jpg
-/web/nyheter.nsf/sidor/27F71FB87DD81958C1257F0F004EF825?OpenDocument
-/web/nyheter.nsf/sidor/27F71FB87DD81958C1257F0F004EF825?OpenDocument
-/web/nyheter.nsf/96CE6D0440020A22C1257F0E00464233/$file/ATT1YBWU.jpg
-/web/nyheter.nsf/sidor/96CE6D0440020A22C1257F0E00464233?OpenDocument
-/web/nyheter.nsf/sidor/96CE6D0440020A22C1257F0E00464233?OpenDocument
-/web/nyheter.nsf/1DE5A11C8A3F5996C1257F0D0039C160/$file/ATTKP9H7.jpg
-/web/nyheter.nsf/sidor/1DE5A11C8A3F5996C1257F0D0039C160?OpenDocument
-/web/nyheter.nsf/sidor/1DE5A11C8A3F5996C1257F0D0039C160?OpenDocument
-/web/nyheter.nsf/B5B269B0CA387646C1257F060052FF09/$file/ATT8KD89.jpg
-/web/nyheter.nsf/sidor/B5B269B0CA387646C1257F060052FF09?OpenDocument
-/web/nyheter.nsf/sidor/B5B269B0CA387646C1257F060052FF09?OpenDocument
-http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=int
-http://edu.bth.se/utbildning/utb_sok_resultat.asp?KtTermin=nast&PtStartTermin=nast&KtTyp=FRIS&Program=JA&lang=sv
-http://www.bth.se/web/nyheter.nsf/sidor/8F5E44896F091A3AC1257E9F0045AC7D?OpenDocument
-http://edu.bth.se/utbildning/utb_sok_resultat.asp?lang=sv&KtTermin=20152&PtStartTermin=20152&vy=hitta&sortering=amne&sortering=installd&grupperingar=1
-http://www.bth.se/info/ophus.nsf/sidor/oppet-hus-pa-bth
-http://edu.bth.se/utbildning/utb_sok_resultat.asp?KtTermin=inne&PtStartTermin=inne&KtTyp=SOMM&lang=sv
-/web/kalendarium.nsf/sidor/485C6A116F5CCB07C1257F0E004A3B11?OpenDocument
-http://www.bth.se/web/kalendarium.nsf
-http://www.bth.se/web/kalendarium.nsf
-http://www.bth.se/web/kalendarium.nsf
-http://www.bth.se/web/kalendarium.nsf
-http://www.bth.se/web/kalendarium.nsf/AllaDok?OpenView
-http://www.bth.se/web/RSSreader.nsf/D7FB2047AD932DC1C1257F010044EC29/$file/Ina .jpeg
-http://www.bth.se/web/RSSreader.nsf/4EA259E69ABB8D4DC1257EAB003CCEB9/$file/Utbytesstudent i Singapore.jpeg
-http://www.bth.se/web/RSSreader.nsf/4EA259E69ABB8D4DC1257EAB003CCEB9/$file/Utbytesstudent i Singapore.jpeg
-http://www.bth.se/web2012/images/defaults/blog.jpg
-http://www.bth.se/bloggar/maskinteknik/?p=546
-http://www.bth.se/bloggar/maskinteknik/?p=546
-http://www.bth.se/web2012/images/defaults/blog.jpg
-http://www.bth.se/bloggar/diagnospadistans/?p=1
-http://www.bth.se/bloggar/diagnospadistans/?p=1
-http://www.bth.se/web/RSSreader.nsf/17C888283E5A5BCCC1257A1D002F8132/$file/Green Charge.jpeg
-/web/pressmeddelande.nsf/sidor/5992F8120E2655F0C1257F22002CCD89?OpenDocument
-/web/pressmeddelande.nsf/sidor/F4EBEDAD5B398350C1257F1C0028EB53?OpenDocument
-/web/pressmeddelande.nsf/sidor/E702E7C29E33A0B2C1257F1700329433?OpenDocument
-/web/pressmeddelande.nsf/sidor/BA6800ACA0BDB8B2C1257F09004F8ED3?OpenDocument
-http://www.bth.se/web/pressmeddelande.nsf/AllaDok?OpenView
-/web/utmarkelser.nsf/sidor/4CC79392B8F8D211C1257D88003709CB?OpenDocument
-/web/utmarkelser.nsf/sidor/C5C8D8F87E6EC6DCC1257D39004CE1D0?OpenDocument
-/web/utmarkelser.nsf/sidor/6121811FF55C891AC1257D8800366D5C?OpenDocument
-/web/utmarkelser.nsf/sidor/936596A2A8C92FBEC1257D6300322897?OpenDocument
+www.bth.se /../../web2012/js/fancybox/jquery.fancybox-1.3.4.css
+www.bth.se /xsp/.ibmxspres/.mini/css/@Da&amp;@Ib&amp;2Tfxsp.css&amp;2TfxspLTR.css.css
+www.bth.se /web/start.nsf/../../web2012/css/all.css
+www.bth.se /web/start.nsf/../../web2012/css/print.css
+www.bth.se http://www.bth.se/utbildning/
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=ing
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=hal
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=fys
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=data
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=dig
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=dist
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=int
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=for
+www.bth.se http://edu.bth.se/utbildning/utb_sok_resultat.asp?lang=sv&KtTermin=20162&PtStartTermin=20162&vy=hitta
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/utbildningskatalog
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/mot-en-bthare
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/studentliv
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/vagledning
+www.bth.se http://www.bth.se/utbildning/
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/mot-en-bthare
+www.bth.se http://hogskolasokbth.bth.se/ingenjorsutbildningar/
+www.bth.se http://www.bth.se/student/
+www.bth.se https://studentportal.bth.se/
+www.bth.se https://studentportal.bth.se/web/studentportal.nsf/web.xsp/registrering
+www.bth.se https://studentportal.bth.se/web/studentportal.nsf/web.xsp/tentamen
+www.bth.se https://studentportal.bth.se/web/studentportal.nsf/web.xsp/ladokintyg
+www.bth.se https://studentportal.bth.se/web/studentportal.nsf/web.xsp/mina_kontaktuppgifter
+www.bth.se https://studentportal.bth.se/web/studentportal.nsf/web.xsp/studentcentrum
+www.bth.se http://schema.bth.se/4DACTION/WebShowSearch/1/1-0
+www.bth.se http://www.bth.se/bibliotek
+www.bth.se http://outlook.com/student.bth.se
+www.bth.se http://www.bth.se/lms
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/utbildningskatalog
+www.bth.se https://studentportal.bth.se/web/studentportal.nsf/web.xsp/studentcentrum
+www.bth.se http://www.bth.se/forskning/
+www.bth.se http://www.bth.se/web/forskning.nsf/sidor/utbildning-pa-forskarniva
+www.bth.se http://www.bth.se/web/forskning.nsf/sidor/rankingar
+www.bth.se http://www.bth.se/web/forskning.nsf/sidor/kontakter
+www.bth.se http://www.bth.se/web/forskning.nsf/sidor/forskningsomraden
+www.bth.se http://www.bth.se/samverkan/
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/samverkan-med-forskare
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/samverkan-med-studenter
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/samverkan-med-skolor
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/euppdragsutbildning
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/vara-erbjudanden
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/innovation-och-utveckling
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/kompetensutveckling
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/kunskapsutveckling
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/marknadsforing
+www.bth.se http://www.bth.se/web/samverkan.nsf/sidor/personalforsorjning
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/ny-student
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/ny-student
+www.bth.se /web/nyheter.nsf/837BC962A65BDFC1C1257F1E0034D96D/$file/Årets Prestation Trägårdh600x400.jpg
+www.bth.se /web/nyheter.nsf/sidor/837BC962A65BDFC1C1257F1E0034D96D?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/837BC962A65BDFC1C1257F1E0034D96D?OpenDocument
+www.bth.se /web/nyheter.nsf/58ABC906731F6C7CC1257F1D0029707C/$file/ATTRA5O1.jpg
+www.bth.se /web/nyheter.nsf/sidor/58ABC906731F6C7CC1257F1D0029707C?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/58ABC906731F6C7CC1257F1D0029707C?OpenDocument
+www.bth.se /web/nyheter.nsf/468D27212CC97718C1257F1B004D6CC2/$file/ATT25EIK.jpg
+www.bth.se /web/nyheter.nsf/sidor/468D27212CC97718C1257F1B004D6CC2?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/468D27212CC97718C1257F1B004D6CC2?OpenDocument
+www.bth.se /web/nyheter.nsf/47312D1069BA0B8FC1257F11004080BC/$file/ATTJUV04.jpg
+www.bth.se /web/nyheter.nsf/sidor/47312D1069BA0B8FC1257F11004080BC?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/47312D1069BA0B8FC1257F11004080BC?OpenDocument
+www.bth.se /web/nyheter.nsf/27F71FB87DD81958C1257F0F004EF825/$file/ATTI6E0B.jpg
+www.bth.se /web/nyheter.nsf/sidor/27F71FB87DD81958C1257F0F004EF825?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/27F71FB87DD81958C1257F0F004EF825?OpenDocument
+www.bth.se /web/nyheter.nsf/96CE6D0440020A22C1257F0E00464233/$file/ATT1YBWU.jpg
+www.bth.se /web/nyheter.nsf/sidor/96CE6D0440020A22C1257F0E00464233?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/96CE6D0440020A22C1257F0E00464233?OpenDocument
+www.bth.se /web/nyheter.nsf/1DE5A11C8A3F5996C1257F0D0039C160/$file/ATTKP9H7.jpg
+www.bth.se /web/nyheter.nsf/sidor/1DE5A11C8A3F5996C1257F0D0039C160?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/1DE5A11C8A3F5996C1257F0D0039C160?OpenDocument
+www.bth.se /web/nyheter.nsf/B5B269B0CA387646C1257F060052FF09/$file/ATT8KD89.jpg
+www.bth.se /web/nyheter.nsf/sidor/B5B269B0CA387646C1257F060052FF09?OpenDocument
+www.bth.se /web/nyheter.nsf/sidor/B5B269B0CA387646C1257F060052FF09?OpenDocument
+www.bth.se http://www.bth.se/web/utbildning.nsf/sidor/program?OpenDocument&expand=int
+www.bth.se http://edu.bth.se/utbildning/utb_sok_resultat.asp?KtTermin=nast&PtStartTermin=nast&KtTyp=FRIS&Program=JA&lang=sv
+www.bth.se http://www.bth.se/web/nyheter.nsf/sidor/8F5E44896F091A3AC1257E9F0045AC7D?OpenDocument
+www.bth.se http://edu.bth.se/utbildning/utb_sok_resultat.asp?lang=sv&KtTermin=20152&PtStartTermin=20152&vy=hitta&sortering=amne&sortering=installd&grupperingar=1
+www.bth.se http://www.bth.se/info/ophus.nsf/sidor/oppet-hus-pa-bth
+www.bth.se http://edu.bth.se/utbildning/utb_sok_resultat.asp?KtTermin=inne&PtStartTermin=inne&KtTyp=SOMM&lang=sv
+www.bth.se /web/kalendarium.nsf/sidor/485C6A116F5CCB07C1257F0E004A3B11?OpenDocument
+www.bth.se http://www.bth.se/web/kalendarium.nsf
+www.bth.se http://www.bth.se/web/kalendarium.nsf
+www.bth.se http://www.bth.se/web/kalendarium.nsf
+www.bth.se http://www.bth.se/web/kalendarium.nsf
+www.bth.se http://www.bth.se/web/kalendarium.nsf/AllaDok?OpenView
+www.bth.se http://www.bth.se/web/RSSreader.nsf/D7FB2047AD932DC1C1257F010044EC29/$file/Ina .jpeg
+www.bth.se http://www.bth.se/web/RSSreader.nsf/4EA259E69ABB8D4DC1257EAB003CCEB9/$file/Utbytesstudent i Singapore.jpeg
+www.bth.se http://www.bth.se/web/RSSreader.nsf/4EA259E69ABB8D4DC1257EAB003CCEB9/$file/Utbytesstudent i Singapore.jpeg
+www.bth.se http://www.bth.se/web2012/images/defaults/blog.jpg
+www.bth.se http://www.bth.se/bloggar/maskinteknik/?p=546
+www.bth.se http://www.bth.se/bloggar/maskinteknik/?p=546
+www.bth.se http://www.bth.se/web2012/images/defaults/blog.jpg
+www.bth.se http://www.bth.se/bloggar/diagnospadistans/?p=1
+www.bth.se http://www.bth.se/bloggar/diagnospadistans/?p=1
+www.bth.se http://www.bth.se/web/RSSreader.nsf/17C888283E5A5BCCC1257A1D002F8132/$file/Green Charge.jpeg
+www.bth.se /web/pressmeddelande.nsf/sidor/5992F8120E2655F0C1257F22002CCD89?OpenDocument
+www.bth.se /web/pressmeddelande.nsf/sidor/F4EBEDAD5B398350C1257F1C0028EB53?OpenDocument
+www.bth.se /web/pressmeddelande.nsf/sidor/E702E7C29E33A0B2C1257F1700329433?OpenDocument
+www.bth.se /web/pressmeddelande.nsf/sidor/BA6800ACA0BDB8B2C1257F09004F8ED3?OpenDocument
+www.bth.se http://www.bth.se/web/pressmeddelande.nsf/AllaDok?OpenView
+www.bth.se /web/utmarkelser.nsf/sidor/4CC79392B8F8D211C1257D88003709CB?OpenDocument
+www.bth.se /web/utmarkelser.nsf/sidor/C5C8D8F87E6EC6DCC1257D39004CE1D0?OpenDocument
+www.bth.se /web/utmarkelser.nsf/sidor/6121811FF55C891AC1257D8800366D5C?OpenDocument
+www.bth.se /web/utmarkelser.nsf/sidor/936596A2A8C92FBEC1257D6300322897?OpenDocument
