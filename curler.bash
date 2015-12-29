@@ -7,7 +7,7 @@ domain = $1
 path = $2
 url = $1$2
 
-echo " " >temp.txt
+echo "" >temp.txt
 
 curl $1$2 | sed -n 's/.*href="\([^"]*\).*/\1/p' | sed 's/ //g' | while read next
 do

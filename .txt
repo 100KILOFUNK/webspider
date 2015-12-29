@@ -1,0 +1,69 @@
+ 
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/Samverkan
+http://www.bth.se  /samverkan/ /web2012/css/all.css
+http://www.bth.se  /samverkan/ /web2012/css/print.css
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/Samverkan
+http://www.bth.se  /samverkan/ /web2012/js/fancybox/jquery.fancybox-1.3.4.css
+http://www.bth.se  /samverkan/ http://www.bth.se /innehall
+http://www.bth.se  /samverkan/ http://www.bth.se /ombth
+http://www.bth.se  /samverkan/ http://www.bth.se /kontakt
+http://www.bth.se  /samverkan/ http://www.bth.se /alumni
+http://www.bth.se  /samverkan/ http://www.bth.se /forpersonal
+http://www.bth.se  /samverkan/ http://www.bth.se /press
+http://www.bth.se  /samverkan/ http://www.bth.se /eng
+http://www.bth.se  /samverkan/ http://www.bth.se /otherlanguages
+http://www.bth.se  /samverkan/ http://www.bth.se /
+http://www.bth.se  /samverkan/ http://www.bth.se /
+http://www.bth.se  /samverkan/ http://www.bth.se /utbildning/
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=ing
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=hal
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=fys
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=data
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=dig
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=dist
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=int
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/program?OpenDocument&expand=for
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/utbildningskatalog
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/mot-en-bthare
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/studentliv
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/vagledning
+http://www.bth.se  /samverkan/ http://www.bth.se /utbildning/
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/mot-en-bthare
+http://www.bth.se  /samverkan/ http://www.bth.se /student/
+http://www.bth.se  /samverkan/ http://www.bth.se /bibliotek
+http://www.bth.se  /samverkan/ http://www.bth.se /lms
+http://www.bth.se  /samverkan/ http://www.bth.se /web/utbildning.nsf/sidor/utbildningskatalog
+http://www.bth.se  /samverkan/ http://www.bth.se /forskning/
+http://www.bth.se  /samverkan/ http://www.bth.se /web/forskning.nsf/sidor/utbildning-pa-forskarniva
+http://www.bth.se  /samverkan/ http://www.bth.se /web/forskning.nsf/sidor/rankingar
+http://www.bth.se  /samverkan/ http://www.bth.se /web/forskning.nsf/sidor/kontakter
+http://www.bth.se  /samverkan/ http://www.bth.se /web/forskning.nsf/sidor/forskningsomraden
+http://www.bth.se  /samverkan/ http://www.bth.se /samverkan/
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/samverkan-med-forskare
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/samverkan-med-studenter
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/samverkan-med-skolor
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/euppdragsutbildning
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/vara-erbjudanden
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/innovation-och-utveckling
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/kompetensutveckling
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/kunskapsutveckling
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/marknadsforing
+http://www.bth.se  /samverkan/ http://www.bth.se /web/samverkan.nsf/sidor/personalforsorjning
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/Samverkan
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor-redigera/Samverkan?EditDocument
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/Samverkan
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/vara-erbjudanden
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/samverkan-med-forskare
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/samverkan-med-studenter
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/samverkan-med-skolor
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/euppdragsutbildning
+http://www.bth.se  /samverkan/ /web/samverkan.nsf/sidor/kontakta-oss
+http://www.bth.se  /samverkan/ /web/pressmeddelande.nsf/sidor/EA2119AB45CE9648C1257F1E002D44E0?OpenDocument
+http://www.bth.se  /samverkan/ /web/pressmeddelande.nsf/sidor/5992F8120E2655F0C1257F22002CCD89?OpenDocument
+http://www.bth.se  /samverkan/ /web/pressmeddelande.nsf/sidor/F4EBEDAD5B398350C1257F1C0028EB53?OpenDocument
+http://www.bth.se  /samverkan/ /web/pressmeddelande.nsf/sidor/E702E7C29E33A0B2C1257F1700329433?OpenDocument
+http://www.bth.se  /samverkan/ /web/utmarkelser.nsf/sidor/4CC79392B8F8D211C1257D88003709CB?OpenDocument
+http://www.bth.se  /samverkan/ /web/utmarkelser.nsf/sidor/C5C8D8F87E6EC6DCC1257D39004CE1D0?OpenDocument
+http://www.bth.se  /samverkan/ /web/utmarkelser.nsf/sidor/6121811FF55C891AC1257D8800366D5C?OpenDocument
+http://www.bth.se  /samverkan/ /web/utmarkelser.nsf/sidor/936596A2A8C92FBEC1257D6300322897?OpenDocument
+http://www.bth.se  /samverkan/ http://www.bth.se /
