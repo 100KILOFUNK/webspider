@@ -5,15 +5,18 @@
 
 domain = $1
 path = $2
+url = $1$2
 
-curl $1 | sed -n 's/.*href="\([^"]*\).*/\1/p' | sed 's/ //g' | while read next
+echo " " >temp.txt
+
+curl $1$2 | sed -n 's/.*href="\([^"]*\).*/\1/p' | sed 's/ //g' | while read next
 do
-if echo $next | grep 'bth.se\|^/.*/'
-then echo "$1$2 $next" | uniq >>workinglist.txt 
+if echo $next | grep 'http://www.bth.se\|^/.*/'
+then echo "$1 $2 $next" | uniq >>temp.txt
 fi
 done
 
-cat workinglist.txt | sed 's#\(bth.se\)#\1\ #g' >>workinglist.txt
+cat temp.txt | sed 's#\(bth.se\)#\1\ #g' >>list.txt
 
 
 exit
