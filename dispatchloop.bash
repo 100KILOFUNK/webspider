@@ -8,10 +8,25 @@
 
 cat list.txt | while read next
 do
-	# Here, we add the code which get the target information(not the source) from list.txt
-	# and then call the curler script with that information.
+domain = "domain"
+path = "path"
+
+	# kod, local paths should be written behind sourcedomain + sourcepath. 
+	# do an if statement which check the first char in the column. if it is an /
+	# then it is local. Else use the targetdomain+targetpath in the loop
+	# initialize two variables in the beginning, the Domain and the path. 
+	# send them to the curler script at the end of the loop.
+if #check for the / 
+then 
+	#specify the variables above
+else
+	#specify the variables above
+fi	#finished
+
+./curler.bash $domain $path
 done
 
 
 
 exit
+
