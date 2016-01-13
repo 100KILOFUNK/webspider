@@ -8,7 +8,7 @@ echo "" >temp.txt
 
 echo $1$2
 
-curl $1$2 | sed -n 's/.*href="\([^"]*\).*/\1/p' | sed 's/ //g' | while read next
+curl -s $1$2 | sed -n 's/.*href="\([^"]*\).*/\1/p' | sed 's/ //g' | while read next
 do
 if echo $next | grep 'http://www.bth.se\|^/.*/'
 then echo "$1$2 $next -" | uniq >>temp.txt

@@ -27,7 +27,7 @@ elif    echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}' | cut
 then
 	path=$(echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}')
 	domain=$(echo $next | awk '{print $1, $2}' | sed 's# -##')
-	echo $domain
+	echo $domain 
 	echo $path
 
 fi
@@ -37,6 +37,6 @@ fi
 done
 
 
-
+./grapher.bash
 exit
 

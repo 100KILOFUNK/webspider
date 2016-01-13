@@ -8,16 +8,19 @@ echo "Creating graph.dot"
 
 cat list.txt | while read next
 do
-	target=$(echo $next | awk '{print $3, $4}' | sed 's# -##')
-	source=$(echo $next | awk '{print $1, $2}' | sed 's# -##')
-	echo "	\""$source"\"" "->" "\""$target"\";" >>graph.dot
+	target=$(echo $next | awk '{print $3, $4}' | sed 's# -##' | sed 's#\(http\|https\)://##')
+	source=$(echo $next | awk '{print $1, $2}' | sed 's# -##' | sed 's#\(http\|https\)://##')
+
+	echo "	\""$source"\"" "->" "\""$target"\";" >>temp.dot
 #	sleep 3
 done
 
 
 #this is to be done last so we can make it into a jpg
-sed -i '1 i\digraph{' graph.dot
-echo "}" >>graph.dot
-sed -e '/" " -> " ";/d' graph.dot
+sed -i '1 i\digraph{' temp.dot
+echo "}" >>temp.dot
+sed -i '/" " -> " "/d' temp.dot 
+cat temp.dot | sed -e 's#></a>\"##' >Graph.dot
+rm temp.dot
 echo "Done!"
 exit
