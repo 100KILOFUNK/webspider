@@ -15,21 +15,17 @@ do
 	# send them to the curler script at the end of the loop.
 
 
-if 	echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}' | cut -c 1 | grep -q "h" 
-then 
-	
-	domain=$(echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}')
-	path=$(echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $2}')
-	echo $domain
-	echo $path
- 
-elif    echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}' | cut -c 1 | grep -q  "/"  
+if 	echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}' | cut -c 1 | grep -q "h" >/dev/null
 then
-	path=$(echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}')
-	domain=$(echo $next | awk '{print $1, $2}' | sed 's# -##')
-	echo $domain 
-	echo $path
-
+	domain=$(echo $next | awk '{print $3, $4}' | sed 's#-##' | sed 's#</a></li>##' | awk '{print $1}')
+	path=$(echo $next | awk '{print $3, $4}' | sed 's#-##' | sed 's#</a></li>##' | awk '{print $2}')
+	#echo $domain$path	
+ 
+elif    echo $next | awk '{print $3, $4}' | sed 's#-##' | awk '{print $1}' | cut -c 1 | grep -q  "/" >/dev/null
+then
+	path=$(echo $next | awk '{print $3, $4}' | sed 's#-##'| sed 's#</a></li>##' | awk '{print $1}')
+	domain="www.bth.se"
+	#echo $path$domain
 fi
 
 
