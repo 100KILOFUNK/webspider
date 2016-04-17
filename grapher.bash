@@ -2,7 +2,7 @@
 # Convert the worklist file to a .dot file that we later can use to make a graph over the domain.
 
 echo "Creating graph.dot"
-
+cat banner3d.txt
 # while loop which makes each line into the form 
 # sourcedomain+sourcepath -- targetdomain+targetpath;
 
